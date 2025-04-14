@@ -26,7 +26,7 @@ A simple command-line based Student Management System that allows users to add s
    cd Simple-Student-System
 3. Run the main.py file:
    ```bash
-   python main.py
+   python3 main.py
 4. Follow the on-screen instructions to add student details and view the results.
 
 ## File Structure
